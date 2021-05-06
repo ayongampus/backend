@@ -2,7 +2,7 @@
 
 ## Description
 
-Backend service for blogging system
+Backend service
 
 ## Installation
 
