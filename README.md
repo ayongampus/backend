@@ -36,7 +36,3 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Stay in touch
-
-- Author - [Luthfi](https://twitter.com/jennndol)
-
